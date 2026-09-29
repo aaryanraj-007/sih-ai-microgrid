@@ -1,6 +1,6 @@
-# 🧊 Predictive, AI-Driven Hierarchical Microgrid for Polar Extreme Environments
+# 🧊 AI-Driven Smart Energy Management System for Polar Research Stations
 
-**Smart India Hackathon 2026 (SIH 26051 / 26061)**
+**Smart India Hackathon (SIH 26061) | Ministry of Earth Sciences (MoES) - NCPOR**
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-black?logo=vercel)](https://sih-ai-microgrid.vercel.app)
 [![Tech Stack](https://img.shields.io/badge/Stack-Python_|_PyTorch_|_Next.js-blue)](#)
